@@ -1,6 +1,7 @@
 # Path-Finder
 
-![plot](https://github.com/TosmimForidMehtab/PathFinder/blob/main/Preview1.png)
+![Preview1](https://user-images.githubusercontent.com/83111399/214779908-884dcd54-e4d0-464a-9588-115cc9793698.png)
+![Preview2](https://user-images.githubusercontent.com/83111399/214779933-94d863c9-14ee-499c-b6fe-d96b695182f8.png)
 
 ### Make sure python is installed and inside the project folder run the command on cli:
 
