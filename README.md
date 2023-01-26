@@ -1,8 +1,8 @@
 # Path-Finder
 
-### Make sure python is installed and run the command on cli:
+### Make sure python is installed and inside the project folder run the command on cli:
 
-`pip install pygame` and then follow the steps
+`pip install requirements.txt` and then follow the steps
 
 -   Step1: Run the python file
 -   Step2: Select your starting and ending point
