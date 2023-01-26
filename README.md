@@ -1,5 +1,7 @@
 # Path-Finder
 
+![plot](https://github.com/TosmimForidMehtab/PathFinder/blob/main/Preview1.png)
+
 ### Make sure python is installed and inside the project folder run the command on cli:
 
 `pip install requirements.txt` and then follow the steps
